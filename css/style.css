@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+table, border
+tr th {
+    border: 1px solid #333;
+}
